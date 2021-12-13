@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>assets/music_folder.svg</file>
+    <file>assets/tick-green.svg</file>
+    <file>assets/backward.svg</file>
+    <file>assets/close.svg</file>
+    <file>assets/docs.svg</file>
+    <file>assets/downloads.svg</file>
+    <file>assets/forwad.svg</file>
+    <file>assets/full_screen.svg</file>
+    <file>assets/icons8_fast_forward.svg</file>
+    <file>assets/loop-off.svg</file>
+    <file>assets/menu.svg</file>
+    <file>assets/mini.svg</file>
+    <file>assets/minus.svg</file>
+    <file>assets/music-folder.svg</file>
+    <file>assets/next.svg</file>
+    <file>assets/next01.svg</file>
+    <file>assets/next02.svg</file>
+    <file>assets/next03.svg</file>
+    <file>assets/pause.svg</file>
+    <file>assets/play.svg</file>
+    <file>assets/playlist.svg</file>
+    <file>assets/prev.svg</file>
+    <file>assets/repeat.svg</file>
+    <file>assets/reset.svg</file>
+    <file>assets/restore.svg</file>
+    <file>assets/right.svg</file>
+    <file>assets/search.svg</file>
+    <file>assets/tab-close.svg</file>
+    <file>assets/tab-open.svg</file>
+    <file>assets/toggle_off_1.svg</file>
+    <file>assets/toggle-off.svg</file>
+    <file>assets/tunes.svg</file>
+  </qresource>
+</RCC>
